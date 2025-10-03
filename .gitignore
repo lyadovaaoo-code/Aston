@@ -36,3 +36,25 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Allure
+allure-results/
+allure-report/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
